@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-grid-flow:2.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-grid-flow/2.1.2/d7e057001e84e7242b9e9df2ffd9ecf6dd16c197/vaadin-grid-flow-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-grid-flow/2.1.2/4cde2a510358d8e5e476feb476e625c6e8e056b9/vaadin-grid-flow-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

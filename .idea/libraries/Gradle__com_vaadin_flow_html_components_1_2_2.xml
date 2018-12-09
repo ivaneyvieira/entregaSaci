@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:flow-html-components:1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-html-components/1.2.2/8c540653dbd570db09d66a9b8f68b5c5fb5105ac/flow-html-components-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-html-components/1.2.2/9befca776fb69d9081d108cc1b828738e910d853/flow-html-components-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:flow-client:1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-client/1.2.2/58dd34100c3c0a0017d157ba8ee5f954cedeac78/flow-client-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-client/1.2.2/a299897905684501ce999b9215443be3c93ff6df/flow-client-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

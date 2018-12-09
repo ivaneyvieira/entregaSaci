@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:flow-push:1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-push/1.2.2/92b359bd7fb02213eedffe498a24cbffeff8fd09/flow-push-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-push/1.2.2/275c9708e3f3697f8cc8afa65b459609eae733f5/flow-push-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

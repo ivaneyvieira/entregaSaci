@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:flow-data:1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-data/1.2.2/63e2b5062fd5c9e45f960af02ac2e25dc0d5b441/flow-data-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/flow-data/1.2.2/befb1d3cb91c66bedf0d0e27a538cf76291f266c/flow-data-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

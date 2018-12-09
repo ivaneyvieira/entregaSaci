@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-lumo-theme:1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-lumo-theme/1.2.2/a91de3d07bf16ae577f3bf3b08dfd992234008f8/vaadin-lumo-theme-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-lumo-theme/1.2.2/95def104a5de13452868eeac8edafe24d2035913/vaadin-lumo-theme-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mvysny.dynatest:dynatest-engine:0.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mvysny.dynatest/dynatest-engine/0.11/6d5eb2d67320445aed3b32f228e8bef410b91285/dynatest-engine-0.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mvysny.dynatest/dynatest-engine/0.11/6bb2de97e6376fbf948c1a270179f587a6efb483/dynatest-engine-0.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

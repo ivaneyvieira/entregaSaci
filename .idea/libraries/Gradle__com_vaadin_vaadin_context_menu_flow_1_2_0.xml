@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-context-menu-flow:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-context-menu-flow/1.2.0/7e9419601abc94f23c6b8bb8bd2ed6a439f867a8/vaadin-context-menu-flow-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-context-menu-flow/1.2.0/7672e8b3809d8671e5de96512b3f734bf8fce72a/vaadin-context-menu-flow-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
