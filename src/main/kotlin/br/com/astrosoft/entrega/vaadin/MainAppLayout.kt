@@ -1,42 +1,39 @@
 package br.com.astrosoft.entrega.vaadin
 
-import com.github.appreciated.app.layout.behaviour.AppLayout
-import com.github.appreciated.app.layout.behaviour.Behaviour
-import com.github.appreciated.app.layout.builder.AppLayoutBuilder
-import com.github.appreciated.app.layout.component.appbar.AppBarBuilder
-import com.github.appreciated.app.layout.component.appmenu.MenuHeaderComponent
-import com.github.appreciated.app.layout.component.appmenu.left.LeftNavigationComponent
-import com.github.appreciated.app.layout.component.appmenu.left.builder.LeftAppMenuBuilder
-import com.github.appreciated.app.layout.design.AppLayoutDesign
-import com.github.appreciated.app.layout.entity.Section.HEADER
-import com.github.appreciated.app.layout.router.AppLayoutRouterLayout
-import com.vaadin.flow.component.dependency.HtmlImport
-import com.vaadin.flow.component.icon.VaadinIcon
-import com.vaadin.flow.component.page.BodySize
+import com.flowingcode.addons.applayout.AppLayout
+import com.flowingcode.addons.applayout.menu.MenuItem
+import com.vaadin.flow.component.orderedlayout.VerticalLayout
 import com.vaadin.flow.component.page.Push
 import com.vaadin.flow.component.page.Viewport
+import com.vaadin.flow.router.RouterLayout
+import com.vaadin.flow.server.InitialPageSettings
+import com.vaadin.flow.server.PWA
+import com.vaadin.flow.server.PageConfigurator
+import com.vaadin.flow.theme.Theme
+import com.vaadin.flow.theme.lumo.Lumo
+import com.vaadin.flow.component.UI
 
 @Push
 @Viewport("width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes")
-//@Theme(Lumo::class)
-//@PWA(name = "Controle de entrega", shortName = "Entrega")
-class MainAppLayout : AppLayoutRouterLayout() {
-  override fun getAppLayout(): AppLayout {
-    val variant = Behaviour.LEFT_RESPONSIVE
-    return AppLayoutBuilder
-      .get(variant)
-      .withTitle("Entrada de Mercadoria")
-      .withAppBar(AppBarBuilder.get().build())
-      .withDesign(AppLayoutDesign.CUSTOM)
-      .withAppMenu(LeftAppMenuBuilder
-                     .get()
-                     .addToSection(MenuHeaderComponent("Menu Principal", "Versão 1.0", null), HEADER)
-                     .add(LeftNavigationComponent("Entrega Pendentes", VaadinIcon.BARCODE.create(),
-                                                  ViewPendentes::class.java))
-                     //                     .add(LeftNavigationComponent("Consulta", VaadinIcon.SEARCH.create(), Tela::class.java))
-                     //                   .add(LeftNavigationComponent("Etiqueta de Volumes", VaadinIcon.CUBES.create(), Tela::class.java))
-                     //                 .add(LeftNavigationComponent("Etiquetas de Produtos", VaadinIcon.CUBE.create(), Tela::class.java))
-                     .build()
-                  ).build()
+@Theme(Lumo::class)
+@PWA(name = "Controle de entrega", shortName = "Entrega")
+class MainAppLayout : VerticalLayout(), RouterLayout, PageConfigurator {
+  private var appLayout: AppLayout
+
+  init {
+    isMargin = false
+    isSpacing = false
+    isPadding = false
+    appLayout = AppLayout("App Teste")
+    appLayout.setMenuItems(
+      MenuItem("Home") { UI.getCurrent().navigate("") },
+      MenuItem("Matches") { UI.getCurrent().navigate("novos") },
+      MenuItem("Groups") { UI.getCurrent().navigate("groups") },
+      MenuItem("About ...") { UI.getCurrent().navigate("about") })
+    this.add(appLayout)
+  }
+
+  override fun configurePage(settings: InitialPageSettings?) {
+    appLayout.configurePage(settings)
   }
 }

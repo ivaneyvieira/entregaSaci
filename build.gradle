@@ -1,9 +1,19 @@
+buildscript {
+  ext.kotlin_version = '1.3.11'
+
+  repositories {
+    mavenCentral()
+  }
+
+  dependencies {
+    classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+  }
+}
 
 plugins {
   id "org.jetbrains.kotlin.jvm" version "1.3.10"
   id "org.gretty" version "2.1.0"
   id 'com.devsoap.vaadin-flow' version '1.0.0.RC4'
-  war
 }
 
 // Set Vaadin version
@@ -11,6 +21,8 @@ vaadin.version = '12.0.0'
 
 // Autoconfigure Vaadin dependencies
 vaadin.autoconfigure()
+
+vaadin.submitStatistics=true
 
 repositories {
   jcenter()
@@ -30,10 +42,14 @@ compileKotlin {
   }
 }
 
+apply plugin: "war"
+
+apply plugin: "kotlin"
 
 dependencies {
+  compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
   compile "com.github.mvysny.karibudsl:karibu-dsl-v10:0.5.1"
-  //providedCompile "javax.servlet:javax.servlet-api:3.1.0"
+  providedCompile "javax.servlet:javax.servlet-api:3.1.0"
   // the app-layout custom component
   //compile("org.webjars.bowergithub.polymerelements:app-layout:2.1.0")
   //compile("org.webjars.bowergithub.polymerelements:paper-icon-button:2.2.0")
@@ -45,6 +61,6 @@ dependencies {
   compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
 
   //Vaadin addon
-  compile "com.github.appreciated:app-layout-addon:2.0.0"
+  compile "com.flowingcode.addons.applayout:app-layout-addon:1.0.4"
 }
 
