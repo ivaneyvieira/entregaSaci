@@ -1,271 +1,489 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc15357a-9032-40ae-b6c8-a1c50c28b47a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___entregaSaci_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___entregaSaci_war__exploded_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hotswap_agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_kaributesting_karibu_testing_v10_0_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_kaributesting_mock_servlet_environment_0_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_mvysny_dynatest_dynatest_api_0_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_mvysny_dynatest_dynatest_engine_0_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_mvysny_karibudsl_karibu_dsl_v10_0_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_helger_ph_commons_9_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_helger_ph_css_6_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_intellij_annotations_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_atmosphere_atmosphere_runtime_2_4_30_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_gentyref_1_2_0_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_gwt_gwt_elemental_2_8_2_vaadin2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_slf4j_vaadin_slf4j_jdk14_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_flow_client_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_flow_data_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_flow_html_components_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_flow_push_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_flow_server_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_app_layout_flow_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_button_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_checkbox_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_combo_box_flow_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_context_menu_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_core_12_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_date_picker_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_dialog_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_form_layout_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_grid_flow_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_icons_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_iron_list_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_list_box_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_lumo_theme_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_material_theme_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_notification_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_ordered_layout_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_progress_bar_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_radio_button_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_split_layout_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_tabs_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_text_field_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_upload_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_websocket_javax_websocket_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_javax_el_3_0_1_b08.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_1_2_71.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_common_1_2_71.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jsoup_jsoup_1_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymer_polymer_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_app_layout_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_font_roboto_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_a11y_announcer_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_a11y_keys_behavior_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_behaviors_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_checked_element_behavior_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_fit_behavior_2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_flex_layout_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_form_element_behavior_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_icon_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_iconset_svg_2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_list_2_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_media_query_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_meta_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_overlay_behavior_2_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_resizable_behavior_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_scroll_target_behavior_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_validatable_behavior_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_behaviors_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_icon_button_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_ripple_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_styles_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_app_layout_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_button_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_checkbox_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_combo_box_4_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_context_menu_4_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_control_state_mixin_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_date_picker_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_development_mode_detector_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_dialog_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_element_mixin_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_form_layout_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_grid_5_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_icons_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_item_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_list_box_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_list_mixin_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_lumo_styles_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_material_styles_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_notification_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_ordered_layout_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_overlay_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_progress_bar_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_radio_button_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_split_layout_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_tabs_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_text_field_2_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_themable_mixin_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_upload_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_usage_statistics_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_webcomponents_shadycss_1_5_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_webcomponents_webcomponentsjs_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/-1601007894/entregaSaci.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/-1601007894/entregaSaci.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/-1601007894/git.entregaSaci.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/artifacts/Gradle___entregaSaci_war.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/artifacts/Gradle___entregaSaci_war__exploded_.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/hotswap_agent.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_kaributesting_karibu_testing_v10_0_5_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_kaributesting_mock_servlet_environment_0_5_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_mvysny_dynatest_dynatest_api_0_11.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_mvysny_dynatest_dynatest_engine_0_11.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_mvysny_karibudsl_karibu_dsl_v10_0_5_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_helger_ph_commons_9_1_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_helger_ph_css_6_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_intellij_annotations_12_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_external_atmosphere_atmosphere_runtime_2_4_30_vaadin1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_external_gentyref_1_2_0_vaadin1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_external_gwt_gwt_elemental_2_8_2_vaadin2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_external_slf4j_vaadin_slf4j_jdk14_1_6_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_flow_client_1_2_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_flow_data_1_2_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_flow_html_components_1_2_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_flow_push_1_2_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_flow_server_1_2_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_app_layout_flow_1_0_3.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_button_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_checkbox_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_combo_box_flow_2_0_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_context_menu_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_core_12_0_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_date_picker_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_dialog_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_form_layout_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_grid_flow_2_1_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_icons_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_iron_list_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_list_box_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_lumo_theme_1_2_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_material_theme_1_2_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_notification_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_ordered_layout_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_progress_bar_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_radio_button_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_split_layout_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_tabs_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_text_field_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_upload_flow_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__commons_io_commons_io_2_5.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__javax_websocket_javax_websocket_api_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_9_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_glassfish_javax_el_3_0_1_b08.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_10.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_10.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_10.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_10.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_1_2_71.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_common_1_2_71.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jsoup_jsoup_1_10_3.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_3_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_3_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_3_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymer_polymer_2_6_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_app_layout_2_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_font_roboto_1_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_a11y_announcer_2_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_a11y_keys_behavior_2_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_behaviors_2_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_checked_element_behavior_2_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_fit_behavior_2_2_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_flex_layout_2_0_3.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_form_element_behavior_2_1_3.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_icon_2_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_iconset_svg_2_2_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_list_2_0_19.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_media_query_2_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_meta_2_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_overlay_behavior_2_3_4.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_resizable_behavior_2_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_scroll_target_behavior_2_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_validatable_behavior_2_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_behaviors_2_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_icon_button_2_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_ripple_2_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_styles_2_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_app_layout_1_0_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_button_2_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_checkbox_2_2_4.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_combo_box_4_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_context_menu_4_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_control_state_mixin_2_1_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_date_picker_3_3_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_development_mode_detector_2_0_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_dialog_2_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_element_mixin_2_1_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_form_layout_2_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_grid_5_2_5.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_icons_4_2_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_item_2_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_list_box_1_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_list_mixin_2_1_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_lumo_styles_1_3_3.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_material_styles_1_2_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_notification_1_2_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_ordered_layout_1_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_overlay_3_2_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_progress_bar_1_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_radio_button_1_1_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_split_layout_4_1_0.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_tabs_2_1_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_text_field_2_1_5.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_themable_mixin_1_3_2.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_upload_4_2_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_usage_statistics_2_0_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_webcomponents_shadycss_1_5_0_1.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_webcomponents_webcomponentsjs_1_2_6.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/modules/-1601007894/entregaSaci.main.iml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/modules/-1601007894/entregaSaci.test.iml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/modules/-1601007894/git.entregaSaci.iml" afterDir="false" />
-      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5ef6167f-3a8b-45d9-b619-bcb58fa86cd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_devsoap_gradle_vaadin_flow_plugin_1_0_0_RC4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_appreciated_app_layout_addon_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_appreciated_vaadin_paper_menu_button_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_moowork_gradle_gradle_node_plugin_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_12_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_board_flow_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_charts_flow_6_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_confirm_dialog_flow_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_cookie_consent_flow_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_crud_flow_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_board_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_charts_6_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_confirm_dialog_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_cookie_consent_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_crud_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_reflect_1_3_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ocpsoft_prettytime_prettytime_4_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_insites_cookieconsent_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_jifalops_iron_collapse_button_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_oyeharry_app_menu_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_collapse_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_dropdown_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_icons_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_image_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_menu_behavior_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_selector_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_neon_animation_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_badge_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_card_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_menu_button_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_tabs_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_license_checker_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_usage_statistics_1_0_0_optout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_web_animations_web_animations_js_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/astrosoft/entrega/vaadin/MainAppLayout.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/astrosoft/entrega/vaadin/ViewPendentes.kt" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_devsoap_gradle_vaadin_flow_plugin_1_0_0_RC4.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_appreciated_app_layout_addon_2_0_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_appreciated_vaadin_paper_menu_button_0_9_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_moowork_gradle_gradle_node_plugin_1_2_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_12_0_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_board_flow_2_1_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_charts_flow_6_2_2.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_confirm_dialog_flow_1_1_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_cookie_consent_flow_1_1_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_vaadin_crud_flow_1_0_2.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_board_2_1_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_charts_6_2_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_confirm_dialog_1_1_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_cookie_consent_1_1_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_vaadin_webjar_vaadin_crud_1_0_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_4_0_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_reflect_1_3_10.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_ocpsoft_prettytime_prettytime_4_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_insites_cookieconsent_3_1_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_jifalops_iron_collapse_button_1_0_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_oyeharry_app_menu_2_1_2.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_collapse_2_2_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_dropdown_2_2_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_icons_2_1_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_image_2_2_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_menu_behavior_2_1_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_iron_selector_2_1_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_neon_animation_2_2_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_badge_2_1_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_card_2_1_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_menu_button_2_1_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_paper_tabs_2_1_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_license_checker_2_1_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_usage_statistics_1_0_0_optout.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_web_animations_web_animations_js_2_3_1.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/br/com/astrosoft/entrega/vaadin/MainAppLayout.kt" afterDir="false" />
+      <change afterPath="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/br/com/astrosoft/entrega/vaadin/ViewPendentes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.0/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.0/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___entregaSaci_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___entregaSaci_war__exploded_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_kaributesting_karibu_testing_v10_0_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_kaributesting_mock_servlet_environment_0_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_mvysny_dynatest_dynatest_api_0_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_mvysny_dynatest_dynatest_engine_0_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_mvysny_karibudsl_karibu_dsl_v10_0_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_intellij_annotations_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_javax_el_3_0_1_b08.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_1_2_71.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_common_1_2_71.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_app_layout_2_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_app_layout_2_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_usage_statistics_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1601007894/entregaSaci.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1601007894/entregaSaci.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1601007894/entregaSaci.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1601007894/entregaSaci.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/entregaSaci.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/entregaSaci.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm$onAddTask$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskFormKt$addTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskFormKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/Bootstrap$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/Bootstrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/CustomBootstrapListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/CustomVaadinServiceInitListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$1$1$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$1$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/TaskListView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppDrawer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppHeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppHeaderLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppLayoutKt$appDrawer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppLayoutKt$appHeader$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppLayoutKt$appToolbar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppLayoutKt$navMenuItem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppLayoutKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppToolbar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppToolbar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/AppToolbar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/NavMenuItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/PaperIconButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/PaperIconButtonKt$paperIconButton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/vaadin/pwademo/components/PaperIconButtonKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/entregaSaci.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/entregaSaci.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/services/com.vaadin.flow.server.VaadinServiceInitListener" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/db/migration/V01__CreateTask.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/db/migration/V02__CreateTaskIndices.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/entregaSaci.main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/entregaSaci.main.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/AddTaskForm$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/AddTaskForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/AddTaskForm$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/AddTaskForm$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/AddTaskForm$onAddTask$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/AddTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/AddTaskFormKt$addTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/AddTaskFormKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/Bootstrap$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/Bootstrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/CustomBootstrapListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/CustomVaadinServiceInitListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/MainLayout$1$1$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/MainLayout$1$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/MainLayout$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/MainLayout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/MainLayout$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/MainLayout$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/MainLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/TaskListView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppDrawer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppHeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppHeaderLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppLayoutKt$appDrawer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppLayoutKt$appHeader$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppLayoutKt$appToolbar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppLayoutKt$navMenuItem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppLayoutKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppToolbar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppToolbar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/AppToolbar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/NavMenuItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/PaperIconButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/PaperIconButtonKt$paperIconButton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/vaadin/pwademo/components/PaperIconButtonKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/META-INF/services/com.vaadin.flow.server.VaadinServiceInitListener" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/db/migration/V01__CreateTask.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/db/migration/V02__CreateTaskIndices.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/vaadin/pwademo/AddTaskForm.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/vaadin/pwademo/Bootstrap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/astrosoft/entrega/vaadin/Bootstrap.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/vaadin/pwademo/MainLayout.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/vaadin/pwademo/Task.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/vaadin/pwademo/TaskListView.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/vaadin/pwademo/components/AppLayout.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/vaadin/pwademo/components/PaperIconButton.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/services/com.vaadin.flow.server.VaadinServiceInitListener" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V01__CreateTask.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V02__CreateTaskIndices.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/frontend/styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/frontend/styles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/offline-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/offline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/sw-register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/sw.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.gradle/5.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/.gradle/5.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.gradle/5.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/.gradle/5.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.gradle/5.0/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/.gradle/5.0/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.gradle/5.0/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/.gradle/5.0/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/artifacts/Gradle___entregaSaci_war.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/artifacts/Gradle___entregaSaci_war__exploded_.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_kaributesting_karibu_testing_v10_0_5_2.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_kaributesting_mock_servlet_environment_0_5_2.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_mvysny_dynatest_dynatest_api_0_11.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_mvysny_dynatest_dynatest_engine_0_11.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_github_mvysny_karibudsl_karibu_dsl_v10_0_5_1.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__com_intellij_annotations_12_0.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_glassfish_javax_el_3_0_1_b08.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_1_2_71.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_common_1_2_71.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_3_0.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_app_layout_2_1_0.xml" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_polymerelements_app_layout_2_1_1.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/libraries/Gradle__org_webjars_bowergithub_vaadin_vaadin_usage_statistics_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/modules/-1601007894/entregaSaci.main.iml" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/modules/-1601007894/entregaSaci.main.iml" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/modules/-1601007894/entregaSaci.test.iml" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/modules/-1601007894/entregaSaci.test.iml" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/META-INF/entregaSaci.kotlin_module" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/META-INF/entregaSaci.kotlin_module" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm$2$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm$2.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm$3$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm$3.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm$onAddTask$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskForm.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskFormKt$addTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/AddTaskFormKt.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/Bootstrap$Companion.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/Bootstrap.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/CustomBootstrapListener.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/CustomVaadinServiceInitListener.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$1$1$1$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$1$1$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$1$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$2.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout$3.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/MainLayout.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/Task.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/TaskListView.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppDrawer.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppHeader.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppHeaderLayout.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppLayoutKt$appDrawer$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppLayoutKt$appHeader$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppLayoutKt$appToolbar$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppLayoutKt$navMenuItem$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppLayoutKt.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppToolbar$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppToolbar$2.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/AppToolbar.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/NavMenuItem.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/PaperIconButton.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/PaperIconButtonKt$paperIconButton$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/classes/kotlin/main/com/vaadin/pwademo/components/PaperIconButtonKt.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/libs/entregaSaci.war" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/build/libs/entregaSaci.war" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/resources/main/META-INF/services/com.vaadin.flow.server.VaadinServiceInitListener" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/resources/main/db/migration/V01__CreateTask.sql" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/resources/main/db/migration/V02__CreateTaskIndices.sql" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/build/resources/main/logback.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/META-INF/entregaSaci.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/AddTaskForm$2$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/AddTaskForm$2.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/AddTaskForm$3$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/AddTaskForm$3.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/AddTaskForm$onAddTask$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/AddTaskForm.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/AddTaskFormKt$addTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/AddTaskFormKt.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/Bootstrap$Companion.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/Bootstrap.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/CustomBootstrapListener.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/CustomVaadinServiceInitListener.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/MainLayout$1$1$1$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/MainLayout$1$1$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/MainLayout$1$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/MainLayout$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/MainLayout$2.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/MainLayout$3.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/MainLayout.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/Task.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/TaskListView.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppDrawer.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppHeader.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppHeaderLayout.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppLayoutKt$appDrawer$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppLayoutKt$appHeader$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppLayoutKt$appToolbar$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppLayoutKt$navMenuItem$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppLayoutKt.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppToolbar$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppToolbar$2.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/AppToolbar.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/NavMenuItem.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/PaperIconButton.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/PaperIconButtonKt$paperIconButton$1.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/classes/com/vaadin/pwademo/components/PaperIconButtonKt.class" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/resources/META-INF/services/com.vaadin.flow.server.VaadinServiceInitListener" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/resources/db/migration/V01__CreateTask.sql" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/resources/db/migration/V02__CreateTaskIndices.sql" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/out/production/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/AddTaskForm.kt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/Bootstrap.kt" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/br/com/astrosoft/entrega/vaadin/Bootstrap.kt" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/MainLayout.kt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/Task.kt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/TaskListView.kt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/components/AppLayout.kt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/components/PaperIconButton.kt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/resources/META-INF/services/com.vaadin.flow.server.VaadinServiceInitListener" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/resources/db/migration/V01__CreateTask.sql" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/resources/db/migration/V02__CreateTaskIndices.sql" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/webapp/frontend/styles.html" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/src/main/webapp/frontend/styles.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/webapp/manifest.json" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/webapp/offline-page.html" beforeDir="false" afterPath="$USER_HOME$/ssd/git/entregaSaci/src/main/webapp/offline.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/webapp/sw-register.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/ssd/git/entregaSaci/src/main/webapp/sw.js" beforeDir="false" />
     </list>
     <ignored path="$USER_HOME$/ssd/git/entregaSaci/.gradle/" />
     <ignored path="$USER_HOME$/ssd/git/entregaSaci/build/" />
@@ -286,7 +504,30 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="entregaSaci" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="entregaSaci" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="entregaSaci" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="entregaSaci" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -294,98 +535,25 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle.kts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#118#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/MainLayout.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#28#861#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/TaskListView.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#28#168#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/components/AppLayout.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#39#624#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/components/PaperIconButton.kt">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#39#409#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/AddTaskForm.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#28#585#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>com.github.vok.karibudsl</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/ssd/git/entregaSaci" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle.kts" />
-        <option value="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/AddTaskForm.kt" />
-        <option value="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/MainLayout.kt" />
-        <option value="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/TaskListView.kt" />
-        <option value="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/components/AppLayout.kt" />
-        <option value="$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/components/PaperIconButton.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -398,70 +566,27 @@
     <option name="width" value="910" />
     <option name="height" value="462" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="entregaSaci" type="b2602c69:ProjectViewProjectNode" />
-              <item name="entregaSaci" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="entregaSaci" type="b2602c69:ProjectViewProjectNode" />
-              <item name="entregaSaci" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="entregaSaci" type="b2602c69:ProjectViewProjectNode" />
-              <item name="entregaSaci" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="entregaSaci" type="b2602c69:ProjectViewProjectNode" />
-              <item name="entregaSaci" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="entregaSaci" type="b2602c69:ProjectViewProjectNode" />
-              <item name="entregaSaci" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="pwademo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="entregaSaci" type="b2602c69:ProjectViewProjectNode" />
-              <item name="entregaSaci" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="pwademo" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle.kts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29655173" />
     <property name="settings.editor.selected.configurable" value="debugger.hotswap" />
   </component>
   <component name="RunDashboard">
@@ -497,220 +622,153 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 9.0.10" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Gradle___entregaSaci_war__exploded_/" />
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
-      <deployment>
-        <artifact name="Gradle : entregaSaci.war (exploded)">
-          <settings>
-            <option name="CONTEXT_PATH" value="/Gradle___entregaSaci_war__exploded_" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_entregaSaci" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="39977" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="AsyncProfilerRunner">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="Gradle : entregaSaci.war (exploded)" />
-        </option>
-      </method>
-    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc15357a-9032-40ae-b6c8-a1c50c28b47a" name="Default Changelist" comment="" />
-      <created>1544369534888</created>
+      <changelist id="5ef6167f-3a8b-45d9-b619-bcb58fa86cd2" name="Default Changelist" comment="" />
+      <created>1544404854266</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1544369534888</updated>
-      <workItem from="1544369539256" duration="1292000" />
+      <updated>1544404854266</updated>
+      <workItem from="1544404856834" duration="56000" />
+      <workItem from="1544405007275" duration="296000" />
+      <workItem from="1544405354718" duration="747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1292000" />
+    <option name="totallyTimeSpent" value="1099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25685427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.3298153" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Gradle View" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298153" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.3298153" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39973614" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="PlantUML" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="sbt" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" weight="0.32972583" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.3298153" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" />
+      <window_info anchor="bottom" id="Gradle View" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="sbt" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" visible="true" weight="0.32972583" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#118#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/AddTaskForm.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#28#585#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/MainLayout.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#28#861#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/TaskListView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#28#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/components/AppLayout.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#39#624#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/ssd/git/entregaSaci/src/main/kotlin/com/vaadin/pwademo/components/PaperIconButton.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#39#409#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29655173" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>entregaSaci</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin.webjar:vaadin-crud:1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin.webjar/vaadin-crud/1.0.1/47829cf40965b7d73e3513532b6a244203f278a1/vaadin-crud-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin.webjar/vaadin-crud/1.0.1/e16d4af362204fcf9ec37f5d1132ad95ec62c1f2/vaadin-crud-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

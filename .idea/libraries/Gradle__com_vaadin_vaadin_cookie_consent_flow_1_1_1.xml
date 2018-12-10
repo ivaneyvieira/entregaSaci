@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-cookie-consent-flow:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-cookie-consent-flow/1.1.1/eabbe535db0beda4a2974c7d400b615b7e0c1a8e/vaadin-cookie-consent-flow-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-cookie-consent-flow/1.1.1/8decca67a7fdbdff27662fdd7071d04328cdd1d8/vaadin-cookie-consent-flow-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-charts-flow:6.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-charts-flow/6.2.2/fc467fb18e6c3528c3ffbc183809cc4b115426f3/vaadin-charts-flow-6.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-charts-flow/6.2.2/8164a1982943a4738a52603e7db286c297d6a8c3/vaadin-charts-flow-6.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

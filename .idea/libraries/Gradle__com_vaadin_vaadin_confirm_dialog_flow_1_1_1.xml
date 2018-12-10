@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-confirm-dialog-flow:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-confirm-dialog-flow/1.1.1/c5aeb16565245232cc0e6378d23d8256d7422bba/vaadin-confirm-dialog-flow-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-confirm-dialog-flow/1.1.1/d604cc9274e5057176cd3c6a084fee0617666f73/vaadin-confirm-dialog-flow-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

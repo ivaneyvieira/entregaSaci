@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin:vaadin-crud-flow:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-crud-flow/1.0.2/ae463fc29d3124c342c5731ab5e6a484e75f5a96/vaadin-crud-flow-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-crud-flow/1.0.2/24db74e91c99991163374faca9803bbb8b64f2c7/vaadin-crud-flow-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
